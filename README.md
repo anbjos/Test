@@ -1,26 +1,19 @@
-Here is the corrected version with only the LaTeX equations fixed:
-
 ## Model Summary
 
 The **Spectral Transformer** suppresses audio noise through the following pipeline:
 
 1. **Embedding and Positional Encoding**
-   
-   $$
-   X=\text{PositionalEncoding}(\text{Embedding}(U))
-   $$
+
+$$X=\text{PositionalEncoding}(\text{Embedding}(U))$$
 
 2. **Transformer Processing and Output Projection**
-   
-   $$
-   Y=\text{OutputProjection}(\text{Transformer}(X))
-   $$
+
+$$Y=\text{OutputProjection}(\text{Transformer}(X))$$
 
 **Key Points:**
 
 - $W\_{\text{emb}}$ and $W\_{\text{out}}$ are **independently learned**.
 - Masking is included to support future enhancements, such as handling variable-length inputs.
-
 
 ```julia
 struct Model
