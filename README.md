@@ -2,7 +2,7 @@ columns $\mathbf{p}_j$ and $\mathbf{p}_{j'}$ (posi
 
 two columns $\mathbf{p}_j$ and
 
-text
+my $\cos\bigl(\tfrac{j}{\alpha_k}-\tfrac{j'}{\alpha_k}\bigr)=\cos\Bigl(\tfrac{j-j'}{\alpha_k}\Bigr).$ equation
 
 
 $\mathbf{p}_j$
