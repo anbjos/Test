@@ -1,3 +1,5 @@
+$$\mathbf{p}_j$$
+
 ## Positional Encoding
 
 ### Calculation
