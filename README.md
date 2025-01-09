@@ -1,6 +1,6 @@
 columns $\mathbf{p}_j$ and $\mathbf{p}_{j}$ (posi
 
-two columns $\mathbf{p}_j$ and
+two columns $\mathbf{p}_{j'}s$ and
 
 my $\cos\bigl(\tfrac{j}{\alpha_k}-\tfrac{j'}{\alpha_k}\bigr)=\cos\Bigl(\tfrac{j-j'}{\alpha_k}\Bigr).$ equation
 
