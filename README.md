@@ -1,3 +1,15 @@
+columns $\mathbf{p}_j$ and $\mathbf{p}_{j'}$ (posi
+
+two columns $\mathbf{p}_j$ and
+
+text
+
+
+$\mathbf{p}_j$
+
+
+To compute the dot product between two columns $\mathbf{p}_j$ and $\mathbf{p}_{j'}$ (positions $j$ and $j'$), we pairwise multiply elements and sum them:
+
 two columns $\mathbf{p}_j$ and
 
 text
