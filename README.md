@@ -1,4 +1,4 @@
-columns $\mathbf{p}_j$ and $\mathbf{p}_{j'}$ (posi
+columns $\mathbf{p}_j$ and $\mathbf{p}_{j}$ (posi
 
 two columns $\mathbf{p}_j$ and
 
