@@ -1,3 +1,6 @@
+To compute the dot product between two columns $\mathbf{p}_j$ and $\mathbf{p}_{j'}$ (positions $j$ and $j'$), we pairwise multiply elements and sum them:
+
+
 $$\mathbf{p}_j$$
 
 ## Positional Encoding
