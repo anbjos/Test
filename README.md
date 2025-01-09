@@ -4,5 +4,5 @@ Even with a relatively simple transformer network, excellent performance can be 
 
 ![DL to signal with noise](https://github.com/anbjos/spectral-transformer/blob/main/figures/with_noise.wav) (Choose "Download Raw" to hear the audio)
 
-![Listen to signal with noise](https://jumpshare.com/s/D6ncFIUiWnNYAJv4Kwnh) (Choose "Download Raw" to hear the audio)
+![Listen to signal with noise](https://jumpshare.com/s/D6ncFIUiWnNYAJv4Kwnh/with_noise.wav) (Choose "Download Raw" to hear the audio)
 
