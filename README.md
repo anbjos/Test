@@ -1,5 +1,10 @@
 ## Model Summary
 
+$$
+\mathbf{p}_j = \bigl[\sin\bigl(\tfrac{j}{\alpha_0}\bigr),\,\cos\bigl(\tfrac{j}{\alpha_0}\bigr),\,\sin\bigl(\tfrac{j}{\alpha_1}\bigr),\,\cos\bigl(\tfrac{j}{\alpha_1}\bigr),\,\dots\bigr]^\top
+$$  
+
+
 The **Spectral Transformer** suppresses audio noise through the following pipeline:
 
 1. **Embedding and Positional Encoding**
