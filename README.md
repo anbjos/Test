@@ -2,6 +2,11 @@
 
 
 $$
+p_j^{\top} p_{j'}  = \sum_{k} \cos\Bigl(\frac{j - j'}{\alpha_k}\Bigr).
+$$  
+
+
+$$
 p_j^{\top} p_{j'}
 $$
 
