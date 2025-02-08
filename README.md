@@ -30,14 +30,14 @@ To pursue this approach, we first define the matrix
 
 $$
 \tilde{M}=\text{RegularRows}(M),\quad\tilde{M}\in\mathbb{R}^{d_U\times\tilde{m}}
-
 $$
+
 by removing all all-zero columns from $M$, thereby excluding the bins that are not seen by the transformer, and similarly,
 
 $$
 \tilde{u}\_P=\text{RegularRows}(u_P,M),\quad\tilde{u}\_P\in\mathbb{R}^{\tilde{m}}
-
 $$
+
 where $\tilde{m}$ represents the number of nonzero rows in $M$.
 
 Next, we introduce a vector 
